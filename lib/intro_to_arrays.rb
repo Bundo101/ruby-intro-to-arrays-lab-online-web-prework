@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def instantiate_new_array
   my_new_array = []
 end
@@ -29,3 +30,6 @@ end
 def length_of_array(array)
   array.length
 end
+=======
+instantiate_new_array = []
+>>>>>>> 7739ed1a19dd561bd9aa41ff512eadf5fa367d5d
